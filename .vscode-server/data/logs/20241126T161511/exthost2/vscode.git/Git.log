@@ -1,0 +1,17 @@
+2024-11-26 16:33:50.030 [info] [main] Log level: Info
+2024-11-26 16:33:50.030 [info] [main] Validating found git in: "git"
+2024-11-26 16:33:50.030 [info] [main] Using git "2.43.0" from "git"
+2024-11-26 16:33:50.030 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-26 16:33:50.030 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-26 16:33:50.030 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-26 16:33:50.032 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-26 16:33:50.032 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-26 16:33:50.046 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-26 16:33:50.046 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-26 16:33:50.061 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-26 16:33:50.061 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-26 16:33:50.064 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
